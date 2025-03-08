@@ -1,3 +1,2 @@
 # Machine-Learning-Notebooks
-This is a Repository of My Machine Learning Notebooks where i implemented Every concept in detail
-Helpfull For Revising Concepts Quickly
+This repository contains Jupyter Notebooks covering essential Machine Learning concepts. I created these notebooks to revise key topics quickly and hope they are useful to others as well.
